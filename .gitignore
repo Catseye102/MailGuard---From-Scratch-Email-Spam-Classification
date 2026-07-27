@@ -1,0 +1,20 @@
+# Local Python environments
+.venv/
+venv/
+env/
+spam_classifier_env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local temporary output
+tmp/
+*.log
